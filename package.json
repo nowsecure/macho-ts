@@ -1,6 +1,6 @@
 {
-  "name": "macho",
-  "version": "2.0.0",
+  "name": "macho-ts",
+  "version": "0.1.0",
   "description": "mach-o format parser",
   "type": "module",
   "main": "dist/lib/macho.js",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:indutny/macho"
+    "url": "git@github.com:trufae/macho"
   },
   "keywords": [
     "mach-o",
@@ -20,12 +20,12 @@
     "executable",
     "format"
   ],
-  "author": "Fedor Indutny <fedor@indutny.com>",
+  "author": "pancake <pancake@nopcode.org>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/indutny/macho/issues"
+    "url": "https://github.com/trufae/macho/issues"
   },
-  "homepage": "https://github.com/indutny/macho",
+  "homepage": "https://github.com/trufae/macho",
   "devDependencies": {
     "@types/node": "^20.3.2",
     "typescript": "^5.1.3",
